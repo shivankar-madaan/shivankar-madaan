@@ -4,3 +4,4 @@
 - 🌱 I’m currently working on cloud security
 - 📫 Head over to my blog https://rnalter.github.io/
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/shivankar-madaan-16155a15a/)
+- 👀 Views <img src="https://profile-counter.glitch.me/shivankar-madaan/count.svg" alt="shivankar-madaan" />
